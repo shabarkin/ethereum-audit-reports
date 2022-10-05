@@ -1,5 +1,5 @@
 # Public Ethereum audit reports
-The collection of public audit reports within Ethereum ecosystem.
+The collection of public security audit reports within Ethereum ecosystem.
 
 ## Audit reports done by the following companies:
 - [OpenZappelin](https://blog.openzeppelin.com/security-audits/)
