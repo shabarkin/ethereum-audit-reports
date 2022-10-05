@@ -10,7 +10,9 @@ The collection of public security audit reports within Ethereum ecosystem.
 - [Trail of Bits](https://github.com/trailofbits/publications/tree/master/reviews)
 - [Consensys Diligence](https://consensys.net/diligence/audits/)
 - [MixBytes](https://github.com/mixbytes/audits_public)
+- [Solidified](https://github.com/solidified-platform/audits)
 - [Neodyme](https://reports.neodyme.io/)
 
 ## Audit reports prepared FOR:
 - [Axelar network](https://github.com/axelarnetwork/audits)
+- [Ankr Bridge](https://assets.ankr.com/earn/ankr_bridge_security_audit.pdf)
