@@ -2,6 +2,7 @@
 The collection of public security audit reports within Ethereum ecosystem.
 
 ## Audit reports done by the following companies:
+- [SpearBit](https://github.com/spearbit/portfolio)
 - [OpenZappelin](https://blog.openzeppelin.com/security-audits/)
 - [Certik](https://www.certik.com/)
 - [Sigma Prime](https://github.com/sigp/public-audits)
