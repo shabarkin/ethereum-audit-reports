@@ -1,7 +1,7 @@
 # Public Ethereum audit reports
 The collection of public security audit reports within Ethereum ecosystem.
 
-## Audit reports done by the following companies:
+## Audit reports done BY:
 - [SpearBit](https://github.com/spearbit/portfolio)
 - [OpenZappelin](https://blog.openzeppelin.com/security-audits/)
 - [Certik](https://www.certik.com/)
@@ -12,5 +12,5 @@ The collection of public security audit reports within Ethereum ecosystem.
 - [MixBytes](https://github.com/mixbytes/audits_public)
 - [Neodyme](https://reports.neodyme.io/)
 
-## Audit reports prepared for the following companies:
+## Audit reports prepared FOR:
 - [Axelar network](https://github.com/axelarnetwork/audits)
